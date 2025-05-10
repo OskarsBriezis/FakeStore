@@ -4,6 +4,9 @@
     gap: 1rem;
   }
 
+  .products-grid > div {
+      border: 2px black solid;
+  }
 .product-img {
     max-width: 150px;
     height: auto;
