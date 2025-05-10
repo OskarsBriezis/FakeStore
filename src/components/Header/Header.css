@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    background: linear-gradient(to bottom, #00b894, #00cec9);
+    color: white;
+  }
+  
+  .logo {
+    width: 60px;
+    height: 60px;
+    background-color: #6c3483;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+  }
+  
+  .text {
+    margin-left: 1rem;
+  }
+  
+  .text h1 {
+    font-size: 1.8rem;
+    font-weight: bold;
+  }
+  
+  .text p {
+    font-size: 1.2rem;
+  }
+  

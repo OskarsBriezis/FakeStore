@@ -1,0 +1,12 @@
+.buy-button {
+    background: linear-gradient(to bottom, #00b894, #00cec9);
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+.buy-button:hover{
+    background: linear-gradient(to bottom, #8e06c4, #7e51a2);
+}
